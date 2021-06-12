@@ -1,7 +1,7 @@
 
 ## App built using react native to Search restautants on any location in USA and see their details
 
-App uses react-native-paper as styling libaray and yelp api for fetching restaurants around US
+App uses react-native-paper as styling library and yelp api for fetching restaurants around US
 
 ![Screenshot_20210501-004433_restaurant](https://user-images.githubusercontent.com/64726338/116743552-b81f6600-aa16-11eb-8a45-89aa72365d3b.jpg)
 
